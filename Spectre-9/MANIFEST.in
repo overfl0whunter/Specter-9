@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+recursive-include src/assets *.ico
+recursive-include src/core/native *.asm *.inc *.h *.c *.bat
